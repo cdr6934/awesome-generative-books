@@ -1,22 +1,24 @@
 
 # Books 
-Just adding more text to try and see if this makes the difference 
+The following books are resources that I've found helpful in discovering the interesting nuances of generative art. There is much to be said and will continue to improve over time. 
 
+
+## English 
  | Name                                                                                                                                     | Published | Author                                          | Category                   | Rating |
 |------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------------|----------------------------|--------|
-| [Digital Design Theory: Readings from the Field](https://amzn.to/3kuoWNu)                                                                |           | Helen Armstrong                                 | General                    |        |
-| [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://amzn.to/36u5mM4) |           | Gary William Flake                              | Processing                 |        |
-| [Form+Code in Design, Art, and Architecture](https://amzn.to/2IzW3lM)                                                                    |           | Casey Reas, Chandler McWilliams                 | Processing, p5.js          |        |
-| [Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](https://amzn.to/2ICWcVy)                          |           | Lauren McCarthy, Casey Reas, Ben Fry            | Processing                 |        |
-| [Processing, second edition: A Programming Handbook for Visual Designers and Artists](https://amzn.to/32J8B1j)                           |           | Casey Reas, Ben Fry                             | Processing                 | ⭐⭐⭐⭐⭐  |
-| [The Nature of Code ](https://amzn.to/2KafEtt)                                                                                           |           | Daniel Shiffman                                 | Processing                 | ⭐⭐⭐⭐⭐  |
-| [Truthful Art, The: Data, Charts, and Maps for Communication (Voices That Matter](https://amzn.to/2IFbTM2)                               |           | Alberto Cairo                                   | Data Graphics              |        |
-| [Visualizing Data: Exploring and Explaining Data with the Processing Environment](https://amzn.to/3nn8X5A)                               |           | Ben Fry                                         | Data Graphics              |        |
-| [Data Flow 2: Visualizing Information in Graphic Design](https://amzn.to/36zLvvg)                                                        |           | Robert Klanten, Sven Ehmann                     | Data Graphics              |        |
-| [Dear Data](https://amzn.to/36u714g)                                                                                                     |           | Giorgia, Stefanie Posavec                       | Data Graphics              | ⭐⭐⭐⭐   |
-| [Visualization Analysis and Design ](https://amzn.to/3lym5Ez)                                                                            |           | Tamara Munzner                                  | Data Graphics              |        |
+| [Digital Design Theory: Readings from the Field](https://amzn.to/3kuoWNu)                                                                | 2016      | Helen Armstrong                                 | General                    |        |
+| [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://amzn.to/36u5mM4) | 2000      | Gary William Flake                              | Processing                 |        |
+| [Form+Code in Design, Art, and Architecture](https://amzn.to/2IzW3lM)                                                                    | 2010      | Casey Reas, Chandler McWilliams                 | Processing, p5.js          |        |
+| [Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](https://amzn.to/2ICWcVy)                          | 2015      | Lauren McCarthy, Casey Reas, Ben Fry            | Processing                 |        |
+| [Processing, second edition: A Programming Handbook for Visual Designers and Artists](https://amzn.to/32J8B1j)                           | 2014      | Casey Reas, Ben Fry                             | Processing                 | ⭐⭐⭐⭐⭐  |
+| [The Nature of Code ](https://amzn.to/2KafEtt)                                                                                           | 2012      | Daniel Shiffman                                 | Processing                 | ⭐⭐⭐⭐⭐  |
+| [Truthful Art, The: Data, Charts, and Maps for Communication (Voices That Matter](https://amzn.to/2IFbTM2)                               | 2016      | Alberto Cairo                                   | Data Graphics              |        |
+| [Visualizing Data: Exploring and Explaining Data with the Processing Environment](https://amzn.to/3nn8X5A)                               | 2008      | Ben Fry                                         | Data Graphics              |        |
+| [Data Flow 2: Visualizing Information in Graphic Design](https://amzn.to/36zLvvg)                                                        | 2010      | Robert Klanten, Sven Ehmann                     | Data Graphics              |        |
+| [Dear Data](https://amzn.to/36u714g)                                                                                                     | 2016      | Giorgia, Stefanie Posavec                       | Data Graphics              | ⭐⭐⭐⭐   |
+| [Visualization Analysis and Design ](https://amzn.to/3lym5Ez)                                                                            | 2014      | Tamara Munzner                                  | Data Graphics              |        |
 | [Envisioning Information](https://amzn.to/32JYv06)                                                                                       |           | Edward Tufte                                    | Data Graphics              |        |
-| [The Visual Display of Quantitative Informaiton ](https://amzn.to/3nxpXq1)                                                               |           | Edward Tufte                                    | Data Graphics              |        |
+| [The Visual Display of Quantitative Information ](https://amzn.to/3nxpXq1)                                                               |           | Edward Tufte                                    | Data Graphics              |        |
 | [Designing Programmes: Programme as Typeface, Typography, Picture, Method](https://amzn.to/2Uvi8o4)                                      |           | Karl Gerstner                                   | Aesthetics                 |        |
 | [Point and Line to Plane](https://amzn.to/3psJLMS)                                                                                       |           | Wassily Kandinsky                               | Aesthetics                 |        |
 | [Visual Grammar: A Design Handbook](https://amzn.to/3nslEfr)                                                                             |           | Christian Leborg                                | Aesthetics                 |        |
@@ -39,3 +41,10 @@ Just adding more text to try and see if this makes the difference
 | [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)                                                            |           | Przemyslaw Prusinkiewicz, Aristid Lindenmayer   |                            |        |
 | [Digital Mantras]()                                                                                                                      |           | Steven R. Holtzman                              | Philosophy                 |        |
 | [The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb                                | C++                        |        |
+
+
+## German 
+
+
+## Chinese
+
