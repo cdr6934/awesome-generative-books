@@ -41,6 +41,7 @@ The following books are resources that I've found helpful in discovering the int
 | [The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)                                                            |           | Przemyslaw Prusinkiewicz, Aristid Lindenmayer   |                            |        |
 | [Digital Mantras]()                                                                                                                      |           | Steven R. Holtzman                              | Philosophy                 |        |
 | [The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb                                | C++                        |        |
+| [The Symmetry of Things](https://amzn.to/2JqKOg1)																						   | 2009      | John Conway,  Heidi Burgiel, Chaim G-Strauss    | Mathematics                |        |
 
 
 ## German 
