@@ -42,7 +42,9 @@ The following books are resources that I've found helpful in discovering the int
 | [Digital Mantras]()                                                                                                                      |           | Steven R. Holtzman                              | Philosophy                 |        |
 | [The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb                                | C++                        |        |
 | [The Symmetry of Things](https://amzn.to/2JqKOg1)																						   | 2009      | John Conway,  Heidi Burgiel, Chaim G-Strauss    | Mathematics                |        |
-
+|Automata: A Historical and Technological Study|1958|Alfred Chapuis and Edmond Droz|Generative||
+|[Mathematical Games: The Fantastic Combinations of John Conway's New Solitaire Game ]()|1970|Martin Gardner|Generative||
+|[The Computational Beauty of Nature](https://amzn.to/39BoriB)|1998|Gary William Flake|Generative||
 
 ## German 
 
