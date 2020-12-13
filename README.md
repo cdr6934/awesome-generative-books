@@ -53,8 +53,4 @@ The following books are resources that I've found helpful in discovering the int
 |[Mathematics and Physics for Programmers](https://amzn.to/2JG6WmB)|1985|Danny Kodicek|Physics||
 
 
-## German 
-
-
-## Chinese
 
