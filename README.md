@@ -45,12 +45,11 @@ The following books are resources that I've found helpful in discovering the int
 |Automata: A Historical and Technological Study|1958|Alfred Chapuis and Edmond Droz|Generative||
 |[Mathematical Games: The Fantastic Combinations of John Conway's New Solitaire Game ]()|1970|Martin Gardner|Generative||
 |[The Computational Beauty of Nature](https://amzn.to/39BoriB)|1998|Gary William Flake|Generative||
-|[The Interaction of Color](https://amzn.to/39OZsc3)|1975|Joseph Albers|Color||
+|[The Interaction of Color](https://amzn.to/39OZsc3)|1975|Joseph Albers|Color||.0
 |[Personal website: Colour Spaces]()|||||
 |[sThe Elements of Color](https://amzn.to/36yNCkb)|1970|Johannes Itten|Color||
 |[Evolutionary Design by Computers](https://amzn.to/39C8JUz)|1999|Peter Bently|||
 |[Abstraction in Art and Nature ](https://amzn.to/36weTDO)|1993|Nathan Cabot Hale|Abstraction||
 |[Mathematics and Physics for Programmers](https://amzn.to/2JG6WmB)|1985|Danny Kodicek|Physics||
-
 
 
