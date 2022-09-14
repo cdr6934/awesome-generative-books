@@ -10,7 +10,7 @@ The following books are resources that I've found helpful in discovering the int
 | [The Computational Beauty of Nature: Computer Explorations of Fractals, Chaos, Complex Systems, and Adaptation](https://amzn.to/36u5mM4) | 2000      | Gary William Flake                              | Processing                 |        |
 | [Form+Code in Design, Art, and Architecture](https://amzn.to/2IzW3lM)                                                                    | 2010      | Casey Reas, Chandler McWilliams                 | Processing, p5.js          |        |
 | [Getting Started with p5.js: Making Interactive Graphics in JavaScript and Processing](https://amzn.to/2ICWcVy)                          | 2015      | Lauren McCarthy, Casey Reas, Ben Fry            | Processing                 |        |
-| [Processing, second edition: A Programming Handbook for Visual Designers and Artists](https://amzn.to/32J8B1j)                           | 2014      | Casey Reas, Ben Fry                             | Processing                 | ⭐⭐⭐⭐⭐  |
+| [Processing: A Programming Handbook for Visual Designers and Artists](https://amzn.to/32J8B1j)                           | 2014      | Casey Reas, Ben Fry                             | Processing                 | ⭐⭐⭐⭐⭐  |
 | [The Nature of Code ](https://amzn.to/2KafEtt)                                                                                           | 2012      | Daniel Shiffman                                 | Processing                 | ⭐⭐⭐⭐⭐  |
 | [Truthful Art, The: Data, Charts, and Maps for Communication (Voices That Matter](https://amzn.to/2IFbTM2)                               | 2016      | Alberto Cairo                                   | Data Graphics              |        |
 | [Visualizing Data: Exploring and Explaining Data with the Processing Environment](https://amzn.to/3nn8X5A)                               | 2008      | Ben Fry                                         | Data Graphics              |        |
@@ -42,7 +42,7 @@ The following books are resources that I've found helpful in discovering the int
 | [Digital Mantras]()                                                                                                                      |           | Steven R. Holtzman                              | Philosophy                 |        |
 | [The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb                                | C++                        |        |
 | [The Symmetry of Things](https://amzn.to/2JqKOg1)																						   | 2009      | John Conway,  Heidi Burgiel, Chaim G-Strauss    | Mathematics                |        |
-|Automata: A Historical and Technological Study|1958|Alfred Chapuis and Edmond Droz|Generative||
+| [Automata: A Historical and Technological Study|1958|Alfred Chapuis and Edmond Droz]()|Generative||
 |[Mathematical Games: The Fantastic Combinations of John Conway's New Solitaire Game ]()|1970|Martin Gardner|Generative||
 |[The Computational Beauty of Nature](https://amzn.to/39BoriB)|1998|Gary William Flake|Generative||
 |[The Interaction of Color](https://amzn.to/39OZsc3)|1975|Joseph Albers|Color||.0
