@@ -54,3 +54,4 @@ The following books are resources that I've found helpful in discovering the int
 |[Data Matter Design](https://www.routledge.com/Data-Matter-Design-Strategies-in-Computational-Design/Melendez-Diniz-Signore/p/book/9780367369095)|2020|Edited Frank Melendez, Nancy Diniz, Marcella Del Signore|Computational Design|||
 |[Geometric Patterns with Creative Coding: Coding for the Arts](https://amzn.to/48b55MD)|2023|Selçuk Artut|Coding||
 |[Internet_Art](https://www.amazon.com/Internet_Art-Birth-Web-Rise-NFTs/dp/1838664076/ref=sr_1_1?crid=3OR1DKIMFIU66&keywords=internet_art&qid=1701928896&sprefix=internet_ar%2Caps%2C124&sr=8-1)|2023|Omar Kholief|Internet Art|||
+|[Digital Art (World of Art)](https://www.amazon.com/Digital-Art-World-Christiane-Paul/dp/0500204802)|2023|Christiane Paul|Art|||
