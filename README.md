@@ -55,3 +55,7 @@ The following books are resources that I've found helpful in discovering the int
 |[Geometric Patterns with Creative Coding: Coding for the Arts](https://amzn.to/48b55MD)|2023|Selçuk Artut|Coding||
 |[Internet_Art](https://www.amazon.com/Internet_Art-Birth-Web-Rise-NFTs/dp/1838664076/ref=sr_1_1?crid=3OR1DKIMFIU66&keywords=internet_art&qid=1701928896&sprefix=internet_ar%2Caps%2C124&sr=8-1)|2023|Omar Kholief|Internet Art|||
 |[Digital Art (World of Art)](https://www.amazon.com/Digital-Art-World-Christiane-Paul/dp/0500204802)|2023|Christiane Paul|Art|||
+|[Generative Art with JavaScript and SVG](https://www.amazon.com/Generative-Art-JavaScript-SVG-Algorithms/dp/B0CKYG225F/)|2024||SVG|||
+|[The Nature of Code: Simulating Natural Systems with JavaScript 2nd Edition](https://www.amazon.com/dp/1718503709/)|2024|Dan Shiffman|Javascript|||
+
+
