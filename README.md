@@ -23,7 +23,7 @@ The following books are resources that I've found helpful in discovering the int
 |[Point and Line to Plane](https://amzn.to/3psJLMS)                                                                                       |  1979         | Wassily Kandinsky                               | Aesthetics                 |        |
 |[Visual Grammar: A Design Handbook](https://amzn.to/3nslEfr)                                                                             |   2006        | Christian Leborg                                | Aesthetics                 |        |
 |[White Heat Cold Logic: British Computer Art 1960–1980](https://amzn.to/35xKZ1v)                                                         |   2009        | Paul Brown                                      | History                    |        |
-|[Morphing](https://amzn.to/36PwC80)                                                                                                      |   2015        | Joseph Choma                                    |                            | ⭐⭐⭐    |
+|[Morphing](https://amzn.to/36PwC80)|2015| Joseph Choma|| ⭐⭐⭐|
 |[Hands-On Music Generation with Magenta](https://amzn.to/32TBAzu)                                                                        |    2020       | Alexandre DuBreuil                              |                            |        |
 |[Math for Programmers](https://amzn.to/2IQzaus)                                                                                          |    2020       | Paul Orland                                     |                            |        |
 |[Physics for JavaScript Games, Animation, and Simulations](https://amzn.to/2UHxsyg)                                                      |   2014        | Adrian Dobre, Dev Ramtal                        |                            |        |
@@ -40,8 +40,8 @@ The following books are resources that I've found helpful in discovering the int
 |[Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/32UD7W7)                                |   2019        | David Foster                                    | Deep Learning              |        |
 |[The Algorithmic Beauty of Plants](http://algorithmicbotany.org/papers/#abop)                                                            |           | Przemyslaw Prusinkiewicz, Aristid Lindenmayer   |                            |        |
 |[Digital Mantras](https://mitpress.mit.edu/9780262082280/digital-mantras/)                                                               |  1994         | Steven R. Holtzman                              | Philosophy                 |        |
-|[The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb                                | C++                        |        |
-|[The Symmetry of Things](https://amzn.to/2JqKOg1)																						   | 2009      | John Conway,  Heidi Burgiel, Chaim G-Strauss    | Mathematics                |        |
+|[The Nonlinear Workbook: Chaos, Fractals, Cellular Automata, Genetic Algorithms](https://amzn.to/333ttAm)                                |           | Willi-Hans Steeb| C++|        |
+|[The Symmetry of Things](https://amzn.to/2JqKOg1)|2009| John Conway,  Heidi Burgiel, Chaim G-Strauss| Mathematics|        |
 |[Automata: A Historical and Technological Study](https://www.amazon.com/Automata-Historical-Technological-Alfred-Chapuis/dp/B0000CJZDM)|1958|Alfred Chapuis and Edmond Droz|Generative||
 |[Mathematical Games: The Fantastic Combinations of John Conway's New Solitaire Game ]()|1970|Martin Gardner|Generative||
 |[The Computational Beauty of Nature](https://amzn.to/39BoriB)|1998|Gary William Flake|Generative||
@@ -55,7 +55,6 @@ The following books are resources that I've found helpful in discovering the int
 |[Geometric Patterns with Creative Coding: Coding for the Arts](https://amzn.to/48b55MD)|2023|Selçuk Artut|Coding||
 |[Internet_Art](https://www.amazon.com/Internet_Art-Birth-Web-Rise-NFTs/dp/1838664076/ref=sr_1_1?crid=3OR1DKIMFIU66&keywords=internet_art&qid=1701928896&sprefix=internet_ar%2Caps%2C124&sr=8-1)|2023|Omar Kholief|Internet Art|||
 |[Digital Art (World of Art)](https://www.amazon.com/Digital-Art-World-Christiane-Paul/dp/0500204802)|2023|Christiane Paul|Art|||
-|[Generative Art with JavaScript and SVG](https://www.amazon.com/Generative-Art-JavaScript-SVG-Algorithms/dp/B0CKYG225F/)|2024||SVG|||
+|[Generative Art with JavaScript and SVG](https://www.amazon.com/Generative-Art-JavaScript-SVG-Algorithms/dp/B0CKYG225F/)|2024|David Matthew|SVG|||
 |[The Nature of Code: Simulating Natural Systems with JavaScript 2nd Edition](https://www.amazon.com/dp/1718503709/)|2024|Dan Shiffman|Javascript|||
-
 
